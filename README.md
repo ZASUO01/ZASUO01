@@ -21,4 +21,9 @@ Here are some ideas to get you started:
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Statistics](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZASUO01&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZASUO01&layout=compact&langs_count=6&theme=dracula" />
+</p>
+
+📫 Contact me: [pedro.zasuo@gmail.com](mailto:pedro.zasuo@gmail.com)
